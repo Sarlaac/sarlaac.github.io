@@ -16,9 +16,12 @@ If you followed the guide on [setting up a mirror](https://sarlaac.github.io/pos
 
 ```git clone git@github.com:Sarlaac/sandbox-mirror.git```
 
-3. Update the remote URL to the repository you want to restore. git remote set-url <name> <newurl> [<oldurl>]
+3. Update the remote URL to the repository you want to restore.
 
-```git remote set-url origin git@gitlab.com:sarlaac/sandbox-demo.git git@github.com:Sarlaac/sandbox-mirror.git```
+```
+git remote set-url <name> <newurl> [<oldurl>]
+git remote set-url origin git@gitlab.com:sarlaac/sandbox-demo.git git@github.com:Sarlaac/sandbox-mirror.git
+```
 
 4. Check that the new URL is in place.
 
