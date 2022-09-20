@@ -1,13 +1,13 @@
 ---
 title: "Restore from a Mirror"
 date: 2022-09-20 15:00
-categories: howto
-tags: howto # always lowercase
+categories: howto git
+tags: howto git # always lowercase
 ---
 
 # Restore Repository using a Git Mirror
 
-If you followed the guide on [setting up a mirror](https://sarlaac.github.io/posts/gitlab-mirror/) as a real-time backup, you may now be wondering how can I restore a lost or corrupt repository using the mirror. For this how-to we will use Github (source) as the mirror and Gitlab (destination) as the repository to restore.
+If you followed the guide on [setting up a mirror](https://sarlaac.github.io/posts/gitlab-mirror/) as a real-time backup, you may now be wondering how can I restore a lost or corrupt repository using the mirror. For this how-to we will use Github (source) as the mirror and Gitlab (destination) as the repository to restore. Please Note: this method assumes whatever corrupted the source repository was not also mirrored, if that is the case, snapshots or backups are what you will want.
 
 ## Option 1
 
