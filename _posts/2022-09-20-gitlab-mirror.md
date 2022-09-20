@@ -1,12 +1,15 @@
 ---
 title: "Mirror a Gitlab repository to Github"
 date: 2022-09-20 09:00
-categories: howto
-tags: howto # always lowercase
+categories: howto git
+tags: howto git # always lowercase
 ---
 
 # Mirror a Gitlab repository to Github
 
+Git repository mirrors can be useful to create a real-time copy of a repository for backup purposes, or as a transitional step when moving from one git platform to another. In this post we will walk through creating a mirror from a Gitlab repository to create a Github repository.
+
+---
 To start off create a new empty repository in Github. Do not add a readme or any other files.
 
 ![image](https://user-images.githubusercontent.com/92181960/191295117-9e63da4c-9cee-4717-a06a-95301c14da4d.png)
@@ -41,4 +44,4 @@ Back on Github, go to the repositories settings.
 
 ![image](https://user-images.githubusercontent.com/92181960/191296603-3bfc3620-6fe3-43d3-95bf-3739192bdd3d.png)
 
-That’s it! Test the setup by committing a change on the Gitlab repository and go look for it to be mirrored to the Github repository.
+That’s it! Test the setup by committing a change on the Gitlab repository and go look for it to be mirrored to the Github repository. If you are interested in how this mirror can be used to [restore a corrupt or lost repository](https://sarlaac.github.io/posts/restore-mirror/) I have a post for that now.
