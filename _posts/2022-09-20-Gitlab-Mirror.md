@@ -1,8 +1,8 @@
 ---
 title: Mirror a Gitlab repository to Github
 date: 2022-09-20 9:00
-categories: [how-to]
-tags: [how-to] # always lowercase
+categories: [howto]
+tags: [howto] # always lowercase
 ---
 
 # Mirror a Gitlab repository to Github
