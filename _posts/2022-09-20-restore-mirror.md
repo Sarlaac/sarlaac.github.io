@@ -2,7 +2,7 @@
 title: "Restore from a Mirror"
 date: 2022-09-20 15:00
 categories: howto git
-tags: howto git # always lowercase
+tags: git # always lowercase
 ---
 
 # Restore Repository using a Git Mirror
