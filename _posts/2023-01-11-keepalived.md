@@ -2,7 +2,7 @@
 title: Keepalive Configurations
 date: 2023-01-12 05:30 # HH:MM format
 categories: howto homelab
-tags: homelab, configuration
+tags: homelab configuration
 ---
 # Keepalive Configurations
 
