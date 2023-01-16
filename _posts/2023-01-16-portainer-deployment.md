@@ -15,11 +15,11 @@ the [documentation](https://docs.ansible.com/ansible/latest/index.html) site. Or
 
 I created a repository that lets someone with no ansible experience bootstrap the installation, and then run a playbook (automated tasks) 
 to install Docker, Portainer, and a Minecraft container. It's a fun way to get started with Ansible and Portainer.
-- https://github.com/Sarlaac/ansible_mc_server
+- [Ansible Portainer Deployment](https://github.com/Sarlaac/ansible_mc_server)
 
 
 ## Option 2: Github referenced Portainer compose files
 This option is fairly simple, in that you are just storing your docker-compose files on github, and pointing Portainer to the repository.
 You can tell Portainer to watch the repository for changes, and restart containers as the compose files change, or you can leave it manual, and restart
 containers only if you want the new configuration taken.
-- https://github.com/Sarlaac/portainer_plays
+- [Portainer Github repository](https://github.com/Sarlaac/portainer_plays)
