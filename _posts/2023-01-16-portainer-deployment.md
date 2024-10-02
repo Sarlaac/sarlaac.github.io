@@ -1,7 +1,7 @@
 ---
 title: Portainer Deployment options
 date: 2023-01-16 2:11 # HH:MM format
-categories: howto portainer
+categories: howto
 tags: portainer docker # always lowercase
 ---
 

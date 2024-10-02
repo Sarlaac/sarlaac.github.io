@@ -1,7 +1,7 @@
 ---
 title: "Restore from a Mirror"
 date: 2022-09-20 15:00
-categories: howto git
+categories: howto
 tags: git # always lowercase
 ---
 
