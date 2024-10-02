@@ -1,7 +1,7 @@
 ---
 title: "Mirror a Gitlab repository to Github"
 date: 2022-09-20 09:00
-categories: howto git
+categories: howto
 tags: git # always lowercase
 ---
 
