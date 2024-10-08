@@ -11,7 +11,7 @@
 # Uncomment and complete the url below to enable more contact options
 -
   type: discussion
-  icon: 'fa-regular fa-comments'   # icons powered by <https://fontawesome.com/>
+  icon: 'far fa-comments'   # icons powered by <https://fontawesome.com/>
   url:  'https://github.com/Sarlaac/sarlaac.github.io/discussions'
 # -
 #  type: twitter
