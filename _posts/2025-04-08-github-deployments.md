@@ -35,3 +35,9 @@ Ruleset for Tag Naming (just to avoid typos)
 - Target tags excluding: *-Deploy-QA, *-Deploy-PROD
 - Restrict creations
 - Block force pushes
+
+## Setup Environments for Deployments
+- PROD, QA environments with Required reviewers: DBA team.
+  - Allows DBA team to control when changes get deployed.
+- Development environment could be setup with Required reviewers: Developers.
+  - This would serve as a peer review. This is already handled by the PR ruleset, so only choose one.
