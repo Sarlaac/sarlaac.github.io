@@ -1,3 +1,10 @@
+---
+title: Random SQL Data
+date: 2025-11-18 20:30 # HH:MM format
+categories: howto
+tags: sql oracle # always lowercase
+---
+
 # Oracle Random Data Generation Guide
 
 This guide explains how to generate random data in Oracle using PL/SQL. It includes:
