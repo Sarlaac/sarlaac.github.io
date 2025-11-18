@@ -1,6 +1,6 @@
 ---
 title: SQL Pagination
-date: 2025-11-20 19:30 # HH:MM format
+date: 2025-11-17 21:30 # HH:MM format
 categories: howto
 tags: sql oracle # always lowercase
 ---
